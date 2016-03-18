@@ -42,6 +42,7 @@
 		3EC32ED51C9B91D800A853A4 = {
 			isa = PBXGroup;
 			children = (
+				3EC32EF81C9B922300A853A4 /* SelectCity */,
 				3EC32EE01C9B91D800A853A4 /* SelectCityDemo */,
 				3EC32EDF1C9B91D800A853A4 /* Products */,
 			);
@@ -77,6 +78,37 @@
 				3EC32EE21C9B91D800A853A4 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3EC32EF81C9B922300A853A4 /* SelectCity */ = {
+			isa = PBXGroup;
+			children = (
+				3EC32EF91C9B922300A853A4 /* Controller */,
+				3EC32EFA1C9B922300A853A4 /* Model */,
+				3EC32EFB1C9B922300A853A4 /* View */,
+			);
+			path = SelectCity;
+			sourceTree = "<group>";
+		};
+		3EC32EF91C9B922300A853A4 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		3EC32EFA1C9B922300A853A4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		3EC32EFB1C9B922300A853A4 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
